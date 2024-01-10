@@ -1,4 +1,4 @@
-# MarketNest — Ecommerce Operations Workspace
+# CommerceHub Platform
 
 A storefront operation with stock-safe checkout.
 
@@ -20,7 +20,7 @@ All 20 resource types have documented schemas, deterministic fixtures, exact-mat
 Install Python 3.12 or newer. No third-party runtime packages are needed.
 
 ```bash
-cd marketnest-ecommerce
+cd commercehub-platform
 python -B -m app
 ```
 
